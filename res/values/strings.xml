@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Consulta de Salas Fanor</string>
+    <string name="hello">Hello flanelografodroid!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world</string>
+
+</resources>
