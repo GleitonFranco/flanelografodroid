@@ -5,5 +5,38 @@
     <string name="hello">Hello flanelografodroid!</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world</string>
+    
+    <string name="curso">Curso Fanor:</string>
+    <string name="sala">Sala:</string>
+    <string name="atualizar">Atualizar</string>
+    
+    <string name="ads">Análise e Des. de Sistemas</string>
+    <string name="design_moda">Design de Moda</string>
+    <string name="design_grafico">Design Gráfico</string>
+    <string name="gastronomia">Gastronomia</string>
+    <string name="gti">Gestão de TI</string>
+    <string name="redes">Redes de Computadores</string>
+    <string name="administração">Administração</string>
+    <string name="arquitetura">Arquitetura e Urbanismo</string>
+    <string name="contabeis">Ciências Contábeis</string>
+    <string name="design">Design</string>
+    <string name="direito">Direito</string>
+    <string name="ed_fisica">Educação Física</string>
+    <string name="enfermagem">Enfermagem</string>
+    <string name="eng_mbiental">Engenharia Ambiental e Sanitária</string>
+    <string name="eng_civil">Engenharia Civil</string>
+    <string name="eng_producao">Engenharia de Produção</string>
+    <string name="eng_eletrica">Engenharia Elétrica</string>
+    <string name="eng_eletrica">Engenharia Mecânica</string>
+    <string name="eng_quimica">Engenharia Química</string>
+    <string name="fisioterapia">Fisioterapia</string>
+    <string name="jornalismo">Jornalismo</string>
+    <string name="nutricao">Nutrição</string>
+    <string name="psicologia">Psicologia</string>
+    <string name="publicidade">Publicidade e Propaganda</string>
+    <string name="radio">Rádio, TV e Internet</string>
+    <string name="si">Sistemas de Informação</string>
+    <string name="turismo">Turismo</string>
 
 </resources>
+
